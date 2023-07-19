@@ -71,11 +71,11 @@ permalink: /zh_Hans/new
   
   YAML
   ```yaml
-  - id: '1' # id must have a maximum length of 3
-    title: Demo 1 # title must have a maximum length of 20
-    time: 00:15:00 # time must have a format as this one
-    description: This is a demo task. # description must have a maximum length of 200
-    tag: Demo # tag must have a maximum length of 20
+  - id: '1' # id的最大长度不能超过3
+    title: Demo 1 # title的最大长度不能超过20
+    time: 00:15:00 # time必须符合指定的格式
+    description: This is a demo task. # description的最大长度不能超过200
+    tag: Demo # tag的最大长度不能超过20
   - id: '2'
     title: Demo 2
     time: 00:30:00
