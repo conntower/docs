@@ -8,6 +8,14 @@ parent: 中文(简体)
 # 更新详情
 {: .no_toc }
 
+## 目录
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## 1.6.0
 
 ### 新功能
