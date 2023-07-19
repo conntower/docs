@@ -2,6 +2,7 @@
 layout: default
 title: English
 nav_order: 5
+permalink: /docs/en
 ---
 
 # ConningTower

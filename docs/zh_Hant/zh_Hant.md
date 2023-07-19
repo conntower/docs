@@ -2,6 +2,7 @@
 layout: default
 title: 中文(繁體)
 nav_order: 3
+permalink: /docs/zh_Hant
 ---
 
 # 艦橋
