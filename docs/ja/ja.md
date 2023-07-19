@@ -2,7 +2,7 @@
 layout: default
 title: 日本語
 nav_order: 4
-permalink: /docs/ja
+permalink: /ja
 ---
 
 # 艦橋
