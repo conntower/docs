@@ -1,8 +1,8 @@
 title: ConningTower
 description: ConningTower Official Site
 theme: just-the-docs
-
-url: https://conntower.github.io/docs/
+baseurl: /docs
+url: https://conntower.github.io
 
 aux_links:
   View on GitHub: https://github.com/conntower/docs
