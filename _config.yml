@@ -1,4 +1,4 @@
-#title: ConningTower
+title: ConningTower
 description: ConningTower Official Site
 theme: just-the-docs
 
@@ -7,7 +7,7 @@ url: https://conntower.github.io/docs/
 aux_links:
   View on GitHub: https://github.com/conntower/docs
 
-logo: "/assets/images/logo.png"
+logo: /assets/images/logo.png
 
 # Enable or disable the site search
 # Supports true (default) or false
