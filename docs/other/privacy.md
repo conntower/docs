@@ -2,6 +2,7 @@
 layout: default
 title: ConningTower Privacy
 nav_order: 99
+parent: other
 permalink: /privacy
 ---
 
