@@ -3,6 +3,7 @@ layout: default
 title: 日本語
 nav_order: 4
 permalink: /ja
+has_children: true
 ---
 
 # 艦橋
