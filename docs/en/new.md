@@ -3,6 +3,7 @@ layout: default
 title: What's New
 nav_order: 1
 parent: English
+permalink: /en/new
 ---
 
 # What's New
