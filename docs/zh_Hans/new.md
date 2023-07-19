@@ -2,6 +2,7 @@
 layout: default
 title: 更新详情
 nav_order: 1
+parent: 中文(简体)
 ---
 
 # 更新详情
