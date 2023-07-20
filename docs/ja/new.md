@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 更新詳細
+title: アップデートの詳細
 nav_order: 1
 parent: 日本語
 permalink: /ja/new
 ---
 
-# 更新詳細
+# アップデートの詳細
 {: .no_toc }
 
 ## 目次
@@ -45,7 +45,7 @@ permalink: /ja/new
 
 初めて使用する場合は、右上のインポートボタンをクリックして、データソースのインポートページに移動します。インポートページでは、2つの入力フィールドが表示されます。ユーザーは2つのフィールドのうちの1つを選んで入力する必要があります。
 
-- URLの入力フィールドには、JSON形式のデータを返すhttp(s)のリンクを入力します。返されるJSONの構造は、[このリンク](https://conntower.github.io/data/json/CT_tasks.json)で示される構造に準拠する必要があります。
+- URLの入力フィールドには、JSON形式のデータを返すhttp(s)のリンクを入力します。返されるJSONの構造は、この[GitHub Pages](https://conntower.github.io/data/json/CT_tasks.json)で示される構造に準拠する必要があります。
 - YAMLまたはJSONの入力フィールドには、以下で定義されたコンテンツを入力します：
 
   JSON:
