@@ -37,7 +37,7 @@ permalink: /zh_Hans/new
 
 演示截图：
 
-![](../../assets/images/joystick.gif)
+![](../../docs/assets/images/joystick.gif)
 
 ### 任务提醒
 
@@ -88,7 +88,7 @@ permalink: /zh_Hans/new
 
 演示截图：
 
-![](../../assets/images/reminder.gif)
+![](../../docs/assets/images/reminder.gif)
 
 {: .note }
 > 如果填写为URL时，该链接将被记忆，该次请求将被保存至本机，之后再次打开将直接读取本地保存数据，除非再次点击保存按钮将再次请求刷新页面。
