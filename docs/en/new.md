@@ -36,7 +36,8 @@ This feature is designed to address the issue of the floating button not harmoni
 >   - Swipe up: Take a screenshot
 
 Screenshot demonstration:
-[]()
+
+![](../../docs/assets/images/joystick.gif)
 
 ### Task Reminder
 
@@ -85,6 +86,10 @@ When using it for the first time, click the import button in the upper right cor
   ```
 
 After filling in the content, click the save button in the upper right corner. The task reminder list will be automatically refreshed.
+
+Screenshot demonstration:
+
+![](../../docs/assets/images/reminder.gif)
 
 {: .note }
 > If you fill in the URL field, the link will be remembered, and the request will be saved locally. The next time you open it, the data will be directly loaded from the local storage, unless you click the save button again to refresh the page.
