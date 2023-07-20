@@ -37,7 +37,8 @@ permalink: /zh_Hant/new
 
 
 演示截圖：
-[]()
+
+![](../../docs/assets/images/joystick.gif)
 
 ### 任務提醒
 
@@ -85,6 +86,10 @@ permalink: /zh_Hant/new
   ```
 
 填寫完成後，點擊右上角的保存按鈕。任務提醒列表將自動刷新。
+
+演示截圖：
+
+![](../../docs/assets/images/reminder.gif)
 
 {: .note }
 > 如果填寫為URL時，該連結將被記憶，該次請求將被保存至本機，之後再次打開將直接讀取本地保存的數據，除非再次點擊保存按鈕將再次請求刷新頁面。
