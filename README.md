@@ -1,7 +1,7 @@
 # ConningTower
 
-Create issues from AppStore version at https://github.com/conntower/docs/issues
+Create issues from AppStore version [here](https://github.com/conntower/docs/issues/new/choose)
 
-Create discussions at https://github.com/conntower/docs/discussions
+Create discussions [here](https://github.com/conntower/docs/discussions)
 
-Share your tasks at https://github.com/conntower/docs/discussions/categories/my-tasks
+Share your tasks [here](https://github.com/conntower/docs/discussions/categories/my-tasks)
