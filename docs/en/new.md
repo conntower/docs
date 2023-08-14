@@ -17,6 +17,26 @@ permalink: /en/new
 
 ---
 
+# 1.7.0
+
+## New Features
+
+### Notification Management
+
+Tools-Notification Management, click to enter the Notification Management page. It shows the notifications currently in the queue, and you can clear all notifications on this page.
+
+### Layout Management
+
+Settings-Layout Management, select the layout and return to apply it. You can freely combine layouts that contain joysticks and those that contain floating buttons.
+
+### Theme
+
+Settings-Theme, you can choose a dark or light theme, and the default is to follow the system. This feature is only valid during application startup and will return to default after the application is closed.
+
+## Function Changes
+
+The UI of the Tools, Settings, and About pages has been redesigned and now fully uses the design style after iOS 13. Function logic has been adjusted, and list items that do not navigate to the secondary page will no longer display arrow indicators at the end. Input pages no longer appear in dialog boxes and all use standard design styles. 
+
 # 1.6.0
 
 ## New Features
