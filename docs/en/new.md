@@ -32,7 +32,7 @@ In the album view, there are two buttons on the left sidebar: one for taking a s
 
 #### Web Info
 
-Displays the current webpage's request status code, URL, and cookies.
+Displays the current webpage's request status code, URL.
 
 # 1.7.0
 
