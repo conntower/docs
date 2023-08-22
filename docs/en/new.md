@@ -17,6 +17,23 @@ permalink: /en/new
 
 ---
 
+# 1.8.0
+
+## New Features
+
+### Dashboard
+
+Enable in settings. Once enabled, the Dashboard will be displayed at the top of the homepage. You can select the projects to display by swiping from the left side (on macOS, it can be scrolled). Currently, two projects are available: Album and Web Info.
+
+#### Album
+
+Displays the five most recent photos (from the entire photo album in the system). It is recommended to set the access permission to selected photos, so that only screenshots from this app will be displayed in the Dashboard. If you want to display photos from other apps, it is recommended to enable access to all photos.
+In the album view, there are two buttons on the left sidebar: one for taking a screenshot of the current webpage 📷, and one for refreshing the album 🔄. If you have added other photos in the system photo album and want them to be displayed, click the refresh button.
+
+#### Web Info
+
+Displays the current webpage's request status code, URL, and cookies.
+
 # 1.7.0
 
 ## New Features
