@@ -16,6 +16,18 @@ permalink: /en/new
 {:toc}
 
 ---
+# 1.8.2
+
+## New Features
+
+### Dashboard
+
+You can now open the dashboard directly on the home screen by pulling down the joystick or using the floating button. This is especially recommended for users with small screens when in landscape mode. In the dashboard, we've added a new tasks page where you can quickly add push notifications for tasks by clicking on them.
+
+## Feature Changes
+
+- The method for restoring the display of the sidebar has been changed. Instead of long-pressing anywhere on the interface, you can now simply shake your phone twice.
+- The joystick pull-down function has been changed to open the dashboard.
 
 # 1.8.0
 
