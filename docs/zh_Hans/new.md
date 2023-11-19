@@ -16,6 +16,29 @@ permalink: /zh_Hans/new
 {:toc}
 
 ---
+
+# 2.0.0
+
+## 新功能
+
+在本项目开展一周年这一特别的时间，我们迫不及待地想与您分享的重大变更：现在我们在iPad上提供了全新的设计风格，现在iPad上将默认使用桌面模式；当然在iPhone上我们也作出了与iPad相似的操作优化，现在我们推荐您使用全新的点状指示器按钮来进行操作。
+
+### 点状指示器按钮
+
+现在桌面模式会在主要窗口的上方或右侧显示一个横向或竖向的点状指示器，点击即可弹出菜单，可以使用菜单来恢复侧边栏显示或截图；在桌面模式关闭时（即移动模式），当设备横向时，主要窗口的右侧会显示一个竖向的点状指示器，点击即可弹出菜单，可以使用菜单来隐藏或恢复侧边栏或截图等。
+
+{: .note }
+点状指示器将在未来版本完全取代摇杆和浮动按钮。
+
+
+
+![24819292-FE35-46C5-B378-593B7FB89406_1_102_o](https://github.com/conntower/docs/assets/24852023/e2de2d51-c085-4eb9-87f1-a5e22f11c906)
+![6EFF2234-364F-488C-B56C-F31BC6D82BA1_1_102_o](https://github.com/conntower/docs/assets/24852023/358dfd68-d407-4381-9e80-be89f0cdbbcc)
+![E1DB2B66-7671-4ECE-86DF-756F5BA53419_1_102_o](https://github.com/conntower/docs/assets/24852023/f1990172-0759-42ec-8fe6-f151f30b8eee)
+![40FFE7BB-CB93-41E6-B357-5A701C762F75_1_102_o](https://github.com/conntower/docs/assets/24852023/063d3623-4caf-4a02-bf4a-474ba2794ce3)
+![020EBDB3-69A4-4A42-97C6-0E3B43A3F099_1_101_o](https://github.com/conntower/docs/assets/24852023/7eb73023-b58b-4294-a397-5b1f6f34c6c2)
+![CB7F36C3-B49D-4604-B76D-02EF0279E639_1_101_o](https://github.com/conntower/docs/assets/24852023/6a98d996-2687-465f-b1b2-ae9de75c47c5)
+
 # 1.8.2
 
 ## 新功能
