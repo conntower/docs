@@ -30,16 +30,23 @@ permalink: /zh_Hans/new
 {: .note }
 点状指示器将在未来版本完全取代摇杆和浮动按钮。
 
-### 桌面模式
+移动模式：
 
-专为大屏幕设备设计的全新UI，在该模式下可以使用功能更加强大的侧边栏，可以通过地址栏前往你需要的页面，在该模式下我们移除了刷新与主页按钮的二次确认。
-
-![24819292-FE35-46C5-B378-593B7FB89406_1_102_o](https://github.com/conntower/docs/assets/24852023/e2de2d51-c085-4eb9-87f1-a5e22f11c906)
 ![6EFF2234-364F-488C-B56C-F31BC6D82BA1_1_102_o](https://github.com/conntower/docs/assets/24852023/358dfd68-d407-4381-9e80-be89f0cdbbcc)
 ![E1DB2B66-7671-4ECE-86DF-756F5BA53419_1_102_o](https://github.com/conntower/docs/assets/24852023/f1990172-0759-42ec-8fe6-f151f30b8eee)
-![40FFE7BB-CB93-41E6-B357-5A701C762F75_1_102_o](https://github.com/conntower/docs/assets/24852023/063d3623-4caf-4a02-bf4a-474ba2794ce3)
-![020EBDB3-69A4-4A42-97C6-0E3B43A3F099_1_101_o](https://github.com/conntower/docs/assets/24852023/7eb73023-b58b-4294-a397-5b1f6f34c6c2)
+
+桌面模式：
 ![CB7F36C3-B49D-4604-B76D-02EF0279E639_1_101_o](https://github.com/conntower/docs/assets/24852023/6a98d996-2687-465f-b1b2-ae9de75c47c5)
+
+
+### 桌面模式
+
+专为大屏幕设备设计的全新UI，在该模式下可以使用功能更加强大的侧边栏，可以通过地址栏前往你需要的页面，地址栏上方分别为隐藏侧边栏、前进、后退、重新载入，地址栏下方按钮为加载主页、工具、设置、关于。
+
+{: .important }
+在该模式下我们目前移除了刷新与主页按钮的二次确认。
+
+![020EBDB3-69A4-4A42-97C6-0E3B43A3F099_1_101_o](https://github.com/conntower/docs/assets/24852023/7eb73023-b58b-4294-a397-5b1f6f34c6c2)
 
 # 1.8.2
 
