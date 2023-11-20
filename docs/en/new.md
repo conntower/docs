@@ -44,7 +44,7 @@ Desktop Mode:
 A brand new UI designed for large-screen devices. In this mode, you can use a more powerful sidebar, and you can go to the page you need through the address bar. Above the address bar are buttons to hide the sidebar, go forward, go back, and reload, while below the address bar are buttons to load the homepage, tools, settings, and about.
 
 {: .important }
-In this mode, we have currently removed the double confirmation for the refresh and homepage buttons.
+In this mode, we have currently removed the double confirmation for the reload and homepage buttons.
 
 ![020EBDB3-69A4-4A42-97C6-0E3B43A3F099_1_101_o](https://github.com/conntower/docs/assets/24852023/7eb73023-b58b-4294-a397-5b1f6f34c6c2)
 
