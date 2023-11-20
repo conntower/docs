@@ -16,6 +16,38 @@ permalink: /en/new
 {:toc}
 
 ---
+
+# 2.0.0
+
+## New Features
+
+At this special time of the project's one-year anniversary, we are excited to share with you some major changes: we now offer a brand new design style on iPad, where the desktop mode is now the default; of course, we have also made similar optimizations for iPhone, and now we recommend using the new dot indicator button for operations.
+
+### Dot Indicator Button
+
+In desktop mode, a horizontal or vertical dot indicator will appear above or to the left of the main window. Clicking on it will pop up a menu, which can be used to restore the sidebar display or take screenshots. When desktop mode is turned off (i.e., in mobile mode), a vertical dot indicator will appear to the right of the main window when the device is in landscape orientation. Clicking on it will also pop up a menu, which can be used to hide or restore the sidebar, take screenshots, etc.
+
+{: .note }
+The dot indicator will completely replace the joystick and floating button in future versions.
+
+Mobile Mode:
+
+![6EFF2234-364F-488C-B56C-F31BC6D82BA1_1_102_o](https://github.com/conntower/docs/assets/24852023/358dfd68-d407-4381-9e80-be89f0cdbbcc)
+![E1DB2B66-7671-4ECE-86DF-756F5BA53419_1_102_o](https://github.com/conntower/docs/assets/24852023/f1990172-0759-42ec-8fe6-f151f30b8eee)
+
+Desktop Mode:
+
+![CB7F36C3-B49D-4604-B76D-02EF0279E639_1_101_o](https://github.com/conntower/docs/assets/24852023/6a98d996-2687-465f-b1b2-ae9de75c47c5)
+
+### Desktop Mode
+
+A brand new UI designed for large-screen devices. In this mode, you can use a more powerful sidebar, and you can go to the page you need through the address bar. Above the address bar are buttons to hide the sidebar, go forward, go back, and reload, while below the address bar are buttons to load the homepage, tools, settings, and about.
+
+{: .important }
+In this mode, we have currently removed the double confirmation for the refresh and homepage buttons.
+
+![020EBDB3-69A4-4A42-97C6-0E3B43A3F099_1_101_o](https://github.com/conntower/docs/assets/24852023/7eb73023-b58b-4294-a397-5b1f6f34c6c2)
+
 # 1.8.2
 
 ## New Features
