@@ -46,7 +46,7 @@ A brand new UI designed for large-screen devices. In this mode, you can use a mo
 {: .important }
 In this mode, we have currently removed the double confirmation for the reload and homepage buttons.
 
-![020EBDB3-69A4-4A42-97C6-0E3B43A3F099_1_101_o](https://github.com/conntower/docs/assets/24852023/7eb73023-b58b-4294-a397-5b1f6f34c6c2)
+![Simulator Screenshot - iPad Pro (12 9-inch) (6th generation) - 2023-11-21 at 10 26 53](https://github.com/conntower/docs/assets/24852023/fef663c3-5e2d-4d1b-9dba-6921ce12470e)
 
 # 1.8.2
 
